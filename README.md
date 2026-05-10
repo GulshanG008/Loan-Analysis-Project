@@ -168,7 +168,7 @@ Visualization techniques used:
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/loan-analysis-project.git
+git clone https://github.com/GulshanG008/Loan-Analysis-Project.git
 cd loan-analysis-project
 ```
 
