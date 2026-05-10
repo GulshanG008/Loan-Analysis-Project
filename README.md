@@ -88,7 +88,11 @@ loan-analysis-project/
 │   └── app.py
 │
 ├── data/
-│   └── loan_data.csv
+│   ├── raw/
+│   │   └── loan_data.csv
+│   │
+│   └── processed/
+│       └── processed_loan_data.csv
 │
 ├── model/
 │   ├── loan_model.pkl
@@ -99,6 +103,11 @@ loan-analysis-project/
 │
 ├── database/
 │   └── loan_app.db
+│
+├── diagrams/
+│   ├── dfd_level_0.png
+│   ├── dfd_level_1.png
+│   └── er_diagram.png
 │
 ├── requirements.txt
 │
@@ -305,7 +314,12 @@ screenshots/dashboard.png
 screenshots/prediction.png
 ```
 
-## DFD & ER
+## DFD & ER Diagrams
+```text
+screenshots/dfd_er.png
+```
+
+---
 
 # 📄 License
 
